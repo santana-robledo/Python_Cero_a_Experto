@@ -1,0 +1,13 @@
+lista=[0,1,2,3,4,5,6]
+sublista=lista[2:5]
+sublista2=lista[::4]
+sublista3=lista[4::]
+sublista4=lista[-4:-1:]
+copia_lista=lista[:]
+sublista_paso=lista[1:6:2]
+print(sublista)
+print(sublista2)
+print(sublista3)
+print(sublista4)
+print(copia_lista)
+print(sublista_paso)
