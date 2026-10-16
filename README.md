@@ -158,7 +158,7 @@ Es posible que algunos ejercicios requieran instalar bibliotecas adicionales, co
 
 ## Autor
 
-**Josué Santana Robledo Corona**
+**Santana Robledo**
 
 - GitHub: [santana-robledo](https://github.com/santana-robledo)
 - Repositorio: [Python_Cero_a_Experto](https://github.com/santana-robledo/Python_Cero_a_Experto)
